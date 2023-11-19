@@ -1,0 +1,13 @@
+13-Nov-2023 10:31:18 ERROR - Exception caught: Service.MOVIE_NOT_FOUND
+13-Nov-2023 10:33:30 ERROR - Exception caught: VALIDATOR.INVALID_NAMES
+13-Nov-2023 10:37:43 ERROR - Exception caught: VALIDATOR.INVALID_NAMES
+13-Nov-2023 10:42:07 ERROR - Exception caught: VALIDATOR.INVALID_NAMES
+13-Nov-2023 10:42:58 ERROR - Exception caught: VALIDATOR.INVALID_NAMES
+13-Nov-2023 10:43:27 ERROR - Exception caught: VALIDATOR.INVALID_NAMES
+13-Nov-2023 10:43:56 ERROR - Exception caught: Service.MOVIE_NOT_FOUND
+13-Nov-2023 18:29:15 ERROR - Exception caught: Service.MOVIE_NOT_FOUND
+13-Nov-2023 18:29:42 ERROR - Exception caught: Service.MOVIE_NOT_FOUND
+13-Nov-2023 20:35:59 ERROR - Exception caught: Service.MOVIE_NOT_FOUND
+13-Nov-2023 21:10:23 ERROR - Exception caught: Service.MOVIE_NOT_FOUND
+13-Nov-2023 21:11:44 ERROR - Exception caught: Service.MOVIE_NOT_FOUND
+19-Nov-2023 21:23:10 ERROR - Exception caught: Service.MOVIE_NOT_FOUND
